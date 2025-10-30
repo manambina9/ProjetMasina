@@ -24,17 +24,6 @@ symfony server:start # Backend Symfony
 # Build production
 npm run build:all
 
-ChurchPresenter/
-├── 📁 servers/               # Serveurs intégrés
-│   ├── 📁 php/              # PHP portable Windows
-│   ├── 📁 node/             # Node.js portable
-│   ├── 📁 symfony/          # API Backend
-│   └── 📁 nextjs/           # Frontend React/Next.js
-├── 📁 database/             # SQLite intégrée
-├── 🚀 ChurchPresenter.exe   # Lanceur principal
-└── 📖 README.md
-
-
 This is a Next.js project bootstrapped with create-next-app.
 
 Getting Started
