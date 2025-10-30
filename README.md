@@ -10,7 +10,7 @@ Templates catholique et protestant
 
 # Cloner le projet
 https://github.com/manambina9/ProjetMasina.git
-cd church-presenter
+cd ProjetMasina
 
 # Installation des dépendances
 npm install
